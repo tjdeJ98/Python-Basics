@@ -1,0 +1,1 @@
+print(cloud.__tags["PYTHON"])
