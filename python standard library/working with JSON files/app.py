@@ -3,7 +3,7 @@ from pathlib import Path
 
 # movies = [
 #     dict(id=1, title="Terminator", year=1989),
-#     dict(id=1, title="Kindergarten", year=1993)
+#     dict(id=2, title="Kindergarten", year=1993)
 # ]
 
 # data = json.dumps(movies)
