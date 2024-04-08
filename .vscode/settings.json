@@ -1,0 +1,8 @@
+{
+  "code-runner.runInTerminal": true,
+  "pylint.args": [
+    "disable=missing-module-docstring",
+    "disable=missing-class-docstring",
+    "disable=missing-function-docstring"
+  ]
+}
